@@ -8,6 +8,21 @@ This guide explains the requested C# concepts clearly and precisely, step by ste
 - Do the exercises at the end of sections
 - Check your answers in the provided solutions
 
+## Table of Contents
+
+1. [Properties (auto, init-only)](#properties-auto-init-only)
+2. [Generics & Constraints](#generics--constraints)
+3. [Delegates & Events](#delegates--events)
+4. [LINQ](#linq)
+5. [Async & Await](#async--await)
+6. [Reflection](#reflection)
+7. [Attributes](#attributes)
+8. [Pattern Matching](#pattern-matching)
+9. [Memory Management](#memory-management)
+10. [Exercises](#exercises)
+11. [Theory Check](#theory-check)
+12. [Quick Reference](#quick-reference)
+
 ---
 
 ## Properties (auto, init-only)
